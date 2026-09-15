@@ -1,0 +1,9 @@
+routers:
+  - device_type: cisco_ios
+    host: 192.168.146.201
+
+  - device_type: cisco_ios
+    host: 192.168.146.202
+
+  - device_type: cisco_ios
+    host: 192.168.146.203

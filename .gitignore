@@ -1,0 +1,6 @@
+.env
+.env
+network_automation.log
+backups/
+__pycache__/
+*.pyc
